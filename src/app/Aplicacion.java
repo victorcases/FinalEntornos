@@ -41,6 +41,7 @@ public class Aplicacion {
 				gestion.mostrarProductos();
 				break;
 			case 2:
+				gestion.comprarProductos(scanner);
 				break;
 			case 3:
 				// Opción 3
